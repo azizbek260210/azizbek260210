@@ -43,3 +43,6 @@
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=Azizbek&label=Profile%20Views&color=0&icon=6&pretty=true" />
 </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbek260210&show_icons=true&locale=en" alt="azizbek260210" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizbek260210&" alt="azizbek260210" /></p>
