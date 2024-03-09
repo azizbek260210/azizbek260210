@@ -1,15 +1,32 @@
 <h1 align="center">Hi 👋, My name is Azizbek</h1>
-<h3 align="center">I am Backend developer</h3>
-
-
-- 🌱 I’m currently learning python,Django,Html,CSS,postgresql
-- 🤴 Pronouns: He/Him
-- 👨‍💻 Hobby: coding
-
+<h3 align="center">I am a Python Django Backend Developer. 🐍</h3>
+<p dir="auto">🌟 About Me</p>
+<ul dir="auto">
+<li>👨🏼‍🎓 Student of Najot Ta'lim</li>
+<li>🌱 I’m currently learning python,Django,Html,CSS,postgresql</li>
+<li>🤴 Pronouns: He/Him.</li>
+<li>👨‍💻 Hobby: coding.</li>
+</ul>
+<p dir="auto">🚀 My Tech Stack</p>
+<ul dir="auto">
+<li>Python | Django | <s>Flask</s></li>
+<li>HTML | CSS | <s>JavaScript</s></li>
+<li><s>SQL</s> | PostgreSQL | <s>MySQL</s></li>
+<li>Git | GitHub | VS Code</li>
+</ul>
+<p dir="auto">💻 What I Love</p>
+<ul dir="auto">
+<li>🌍 Building web applications that make a difference.</li>
+<li>📚 Learning languages in my free time.</li>
+<li>☕ Enjoying a good cup of coffee while coding.</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/7_a_z_i_z_b_e_k_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azizbek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/7_a_z_i_z_b_e_k_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azizbek" height="35" width="40" /></a>
+<a href="https://t.me/Azizbek_Xudoyberdiev" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/telegram-3713663-3100672.png?f=webp&w=256" alt="Azizbek" height="30" width="35" /></a>
+<a href="https://www.gmail.azizbek260210@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/gmail-2752179-2284996.png?f=webp&w=256" alt="Azizbek" height="30" width="35" /></a>
 </p>
+<p dir="auto">Feel free to reach out for collaboration or just to say hi! 😊</p>
 
 .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
                                                     .                          *                       
