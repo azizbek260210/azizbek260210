@@ -57,7 +57,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </p>
 </a> 
-<a href="https://visitcount.itsvg.in">
+<a href="">
 <img src="https://visitcount.itsvg.in/api?id=Azizbek&label=Profile%20Views&color=0&icon=6&pretty=true" />
 </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbek260210&show_icons=true&locale=en" alt="azizbek260210" /></p>
