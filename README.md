@@ -3,16 +3,16 @@
 <p dir="auto">🌟 About Me</p>
 <ul dir="auto">
 <li>👨🏼‍🎓 Student of Najot Ta'lim</li>
-<li>🌱 I’m currently learning python,Django,Html,CSS,postgresql</li>
+<li>🌱 I’m currently know Python, Django, Django Rest Framework, Html, CSS, Postgresql</li>
 <li>🤴 Pronouns: He/Him.</li>
-<li>👨‍💻 Hobby: coding.</li>
+<li>👨‍💻 Hobby: coding and drinking a cup of coffee.</li>
 </ul>
 <p dir="auto">🚀 My Tech Stack</p>
 <ul dir="auto">
 <li>Python | Django | <s>Flask</s></li>
 <li>HTML | CSS | <s>JavaScript</s></li>
 <li><s>SQL</s> | PostgreSQL | <s>MySQL</s></li>
-<li>Git | GitHub | VS Code</li>
+<li>Git | GitHub | Drf</li>
 </ul>
 <p dir="auto">💻 What I Love</p>
 <ul dir="auto">
